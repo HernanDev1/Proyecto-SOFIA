@@ -1,0 +1,12 @@
+pynput
+pyautogui
+python-telegram-bot
+easyocr
+nudenet3
+alt-profanity-check
+profanity-check
+torch
+spanlp
+unicode
+requests
+psutil
